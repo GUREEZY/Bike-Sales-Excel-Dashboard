@@ -4,6 +4,9 @@
 This project analyzes bike sales data and presents insights through an interactive Excel dashboard.  
 The goal is to understand customer behavior, sales trends, and key performance indicators.
 
+## Dashboard Preview
+![Dashboard](https://github.com/GUREEZY/Bike-Sales-Excel-Dashboard/blob/main/Bike%20Sales%20dashboard%20Excel%20Project%20Dataset.png)
+
 ##  Tools Used
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
@@ -27,9 +30,6 @@ The goal is to understand customer behavior, sales trends, and key performance i
 - Standardized column names
 - Handled missing values
 - Created calculated fields
-
-## 🖼 Dashboard Preview
-![Dashboard](https://github.com/GUREEZY/Bike-Sales-Excel-Dashboard/blob/main/Bike%20Sales%20dashboard%20Screenshot.pdf)
 
 ##  Files Included
 - Bike_Sales_Raw_Data.xlsx
